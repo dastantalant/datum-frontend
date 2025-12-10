@@ -1,0 +1,1 @@
+/// <reference hal="vite/client" />
